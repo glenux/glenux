@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<iframe src="https://github.com/glenux"></iframe>
-
 <!--
 **glenux/glenux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
