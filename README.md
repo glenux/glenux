@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
 
-Hi, I'm a DevSecOps.
-
+Hi, I'm Glenn,
 I have 15+ years of experience in networking, embedded systems development, infrastructure managment & quality automation.
 I have also been teaching for over 10+ years.
 
