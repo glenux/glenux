@@ -12,7 +12,6 @@ Since the end of 2020 I am also working on the technical aspects of blockchains 
 If you are also interested in these topics, maybe there are opportunities for collaboration?
 
 You can find me at : 
-
 🐦 [@glenux](https://twitter.com/glenux)
 📷 [@glenux_](https://www.instagram.com/glenux_/)
 🐘 [@glenux](https://mastodon.social/glenux/)
