@@ -3,7 +3,7 @@
 Hi, I'm Glenn, nice to meet you :)
 
 I have 15+ years of experience in networking, embedded systems development, infrastructure managment & quality automation.
-I have also been teaching for over 10+ years.
+I have also been teaching those topics for over 10+ years.
 
 Since 2010, I co-founded 4 companies related to networked infrastructure (GNUSIDE/NETCAT), open-hardware (42BRICKS), personal data management (DATA TRANSITION), and code quality (BOLDCODE). The last two are still active.
 
