@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
-Hi, I'm Glenn,
+Hi, I'm Glenn, nice to meet you :)
+
 I have 15+ years of experience in networking, embedded systems development, infrastructure managment & quality automation.
 I have also been teaching for over 10+ years.
 
