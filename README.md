@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- widgets from https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
+
 ![User stats](https://github-readme-stats.vercel.app/api?username=glenux&count_private=true&show_icons=true)
 
-![User languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glenux&hide=javascript,css,html,actionscript,shell,makefile,scss,nsis,dockerfile&langs_count=6)
+![User languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glenux&hide=javascript,css,html,actionscript,shell,makefile,scss,nsis,dockerfile&langs_count=6&layout=compact)
