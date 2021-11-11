@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![User stats](https://github-readme-stats.vercel.app/api?username=glenux&count_private=true&show_icons=true)
 
+![User languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glenux&hide=javascript,css,html,actionscript,shell,makefile,scss,nsis,dockerfile&langs_count=6)
