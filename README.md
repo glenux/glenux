@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hi, I'm a DevSecOps.
+
+I have 15+ years of experience in networking, embedded systems development, infrastructure managment & quality automation.
+I have also been teaching for over 10+ years.
+
+Since 2010, I co-founded 4 companies related to networked infrastructure (GNUSIDE/NETCAT), open-hardware (42BRICKS), personal data management (DATA TRANSITION), and code quality (BOLDCODE). The last two are still active.
+
+Since the end of 2020 I am also working on the technical aspects of blockchains and writing a book about it. I also address the ethical, social, environmental and political issues that these technologies generate.
+
 <!--
 **glenux/glenux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
