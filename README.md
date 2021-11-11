@@ -12,10 +12,12 @@ Since the end of 2020 I am also working on the technical aspects of blockchains 
 If you are also interested in these topics, maybe there are opportunities for collaboration?
 
 You can find me at : 
-🐦 [@glenux](https://twitter.com/glenux)
-📷 [@glenux_](https://www.instagram.com/glenux_/)
-🐘 [@glenux](https://mastodon.social/glenux/)
-💼 [@glenux](https://linkedin.com/in/glenux)
+
+* 📧 [@glenux](mailto:glenux@glenux.net)
+* 🐘 [@glenux](https://mastodon.social/glenux/)
+* 🐦 [@glenux](https://twitter.com/glenux)
+* 💼 [@glenux](https://linkedin.com/in/glenux)
+* 📷 [@glenux_](https://www.instagram.com/glenux_/)
 
 <!--
 **glenux/glenux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
